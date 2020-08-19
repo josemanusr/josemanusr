@@ -47,6 +47,14 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
   </tr>
 </table>
 
+## Publicaciones
+
+* **[Vida más allá de MySQL: InfluxDB y las Bases de Datos de Series Temporales](https://www.dropbox.com/s/sy8ly6qq00lkpud/Segobit-V06-N08-P032.pdf?dl=0)**
+  - 8 de jul. de 2019; SEGO-BIT (Número 8); ISSN:2386-866X
+  - InfluxDB es una base de datos de alto rendimiento desarrollada especialmente para datos con marcas temporales. Esta nos permite la ingesta de gran volumen de datos y procesamiento con consultas en tiempo real. Esta desarrollada completamente en el lenguaje de programación Go no utiliza dependencias externas. Provee al usuario de sentencias de escritura y lectura con una terminal de comandos como interfaz, aunque existan sistemas gestores de bases de datos como Telegraf, Graphite, Collectd y OpenTSDB capaces de gestionar las consultas de manera gráfica.
+* **[Marcas de agua y huellas digitales: qué son y por qué son importantes en la actualidad](https://www.dropbox.com/s/bda4tgyyblulqvt/SEGOBIT-V05-N06-P020.pdf?dl=0)**
+  - 6 de feb. de 2018; SEGO-BIT (Número 6); ISSN:2386-866X
+  - Las marcas de agua han sido uno de los avances más importantes en cuanto a la protección de la integridad y la autenticidad de los objetos digitales actuales, utilizándose para saber si un archivo multimedia proviene de un distribuidor autorizado y evitar así las falsificaciones y la distribución ilegal de ellas. En este articulo se habla sobre que son las marcas de agua y sus tipos, para que se utilizan y de que se componen así como la forma en la que se utiliza.
 ## Tecnologías
 <div style="display:flex; flex-wrap:wrap;">  
     <a href="">
