@@ -89,3 +89,7 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 ## Mi Currículum
 <img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/cv1.jpg"/>
 <img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/cv2.jpg"/>
+
+
+<!-- ## GitHub estadísticas
+<img src="https://github-readme-stats.vercel.app/api?username=josemanusr"/> -->
