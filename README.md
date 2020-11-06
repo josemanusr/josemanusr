@@ -7,6 +7,20 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 ## Experiencia
 <table>
   <tr>
+    <td rowspan="4"><img src="https://pbs.twimg.com/profile_images/525231845663723521/gkiCUlCm.jpeg" width="130" height="100"></td>
+    <td>Beca Contrato en Proyecto de Investigación</td>
+  </tr>
+  <tr>
+    <td>Fundación General de la Universidad de Valladolid (FUNGE)</td>
+  </tr>
+  <tr>
+    <td>Proyecto: Sistema de Deep Learning para la ofuscación de datos personales sujetos a RGPD</td>
+  </tr>
+  <tr>
+    <td>Octubre 2020 - Actualidad</td>
+  </tr>
+
+<tr>
     <td rowspan="4"><img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/parque.png" width="100" height="130"></td>
     <td>Beca Contrato en Proyecto de Investigación</td>
   </tr>
@@ -19,6 +33,7 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
   <tr>
     <td>Abril 2020 - Junio 2020</td>
   </tr>
+
 </table>
 
 ## Educación
@@ -64,13 +79,7 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
       <img style="margin-bottom:20px; margin-right:20px;"src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=black&logoColor=white"/>
     </a>
     <a href="">
-      <img style="margin-bottom:20px; margin-right:20px;"src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=black&logoColor=white"/>
-    </a>
-    <a href="">
       <img style="margin-bottom:20px; margin-right:20px;"src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white"/>
-    </a>
-    <a href="">
-      <img style="margin-bottom:20px; margin-right:20px;"src="https://img.shields.io/badge/-Java EE-red?style=for-the-badge&logo=java&labelColor=black&logoColor=white"/>
     </a>
     <a href="">
       <img style="margin-bottom:20px; margin-right:20px;"src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=white"/>
@@ -87,8 +96,7 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 </div>
 
 ## Mi Currículum
-<img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/cv1.jpg"/>
-<img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/cv2.jpg"/>
+<img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/cv.jpg"/>
 
 
 <!-- ## GitHub estadísticas
