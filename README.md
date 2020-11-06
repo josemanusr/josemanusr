@@ -7,7 +7,7 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 ## Experiencia
 <table>
   <tr>
-    <td rowspan="4"><img src="https://pbs.twimg.com/profile_images/525231845663723521/gkiCUlCm.jpeg" width="130" height="100"></td>
+    <td rowspan="4"><img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/funge.png" width="130" height="100"></td>
     <td>Beca Contrato en Proyecto de Investigación</td>
   </tr>
   <tr>
