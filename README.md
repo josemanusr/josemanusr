@@ -7,14 +7,14 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 ## Experiencia
 <table>
   <tr>
-    <td rowspan="4"><img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/funge.png" width="130" height="100"></td>
+    <td rowspan="4"><img src="https://raw.githubusercontent.com/josemanusr/josemanusr/master/img/funge.png" width="130" height="90"></td>
     <td>Beca Contrato en Proyecto de Investigación</td>
   </tr>
   <tr>
     <td>Fundación General de la Universidad de Valladolid (FUNGE)</td>
   </tr>
   <tr>
-    <td>Proyecto: Sistema de Deep Learning para la ofuscación de datos personales sujetos a RGPD</td>
+    <td>Proyecto AIRPORTS: Construcción de un prototipo de plataforma Big Data para el análisis de la eficiencia operacional de vuelos basadas en trayectorias</td>
   </tr>
   <tr>
     <td>Octubre 2020 - Actualidad</td>
