@@ -95,9 +95,10 @@ Soy un aficionado de la informática y de las nuevas tecnologías, en especial, 
 <img src="https://img.shields.io/badge/Gmail-jmsimonramos@gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=black&logoColor=white"/></a>
 </div>
 
+<!--
 ## Mi Currículum
 <img src="https://raw.github.com/josemanusr/josemanusr/master/img/cv.jpg"/>
 
 
-<!-- ## GitHub estadísticas
+ ## GitHub estadísticas
 <img src="https://github-readme-stats.vercel.app/api?username=josemanusr"/> -->
